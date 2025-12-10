@@ -7,7 +7,9 @@
 
 ## 🌌 About Me  
 I'm **Bitan**, a developer who loves creating 🔥 **clean UI**, ⚡ **fast backends**, and 💡 **smart solutions**.  
-Passionate about **C++ competitive coding** and **full-stack MERN development**,  
+I am a **B.Tech 2026 undergrad from NIT Durgapur**, passionate about **C++ competitive coding** and  
+**full-stack MERN development**.  
+
 I keep learning, building, and levelling up — every single day.  
 
 ✨ *Code. Create. Improve. Repeat.* ✨
