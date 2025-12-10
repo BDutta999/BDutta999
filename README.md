@@ -8,7 +8,7 @@
 ## 🌌 About Me  
 I'm **Bitan**, a developer who loves creating 🔥 **clean UI**, ⚡ **fast backends**, and 💡 **smart solutions**.  
 I am a **B.Tech 2026 undergrad from NIT Durgapur**, passionate about **C++ competitive coding** and  
-**full-stack MERN development**.  
+**full-stack MERN development**.
 
 I keep learning, building, and levelling up — every single day.  
 
@@ -61,13 +61,24 @@ I keep learning, building, and levelling up — every single day.
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/bitan-dutta-320155250/" target="_blank">
     <img height="40" src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+
+  <!-- Gmail -->
+  <a href="mailto:duttabitan26@gmail.com" target="_blank">
     <img height="40" src="https://skillicons.dev/icons?i=gmail" />
   </a>
+  &nbsp;&nbsp;
+
+  <!-- X (Twitter) -->
+  <a href="https://x.com/dutta_coder" target="_blank">
+    <img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" />
+  </a>
+
 </p>
 
 ---
