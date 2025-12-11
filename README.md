@@ -43,8 +43,6 @@ I keep learning, building, and leveling up every single day.
 
 </div>
 
-> These badges use Shields.io (backed by GitHub) — extremely reliable and visible on GitHub READMEs.
-
 ---
 
 ## 🛸 Featured Skills  
