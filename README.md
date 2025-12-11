@@ -31,26 +31,17 @@ I keep learning, building, and leveling up every single day.
 
 ---
 
-## 🔥 GitHub Power Stats (reliable — no broken images)
-<p align="center">
+## 🔥 GitHub Power Stats
 
-  <!-- Stable, shields-based stats (always visible) -->
-  <img src="https://img.shields.io/github/followers/BDutta999?label=Followers&style=social" alt="Followers" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/BDutta999?label=Stars&style=flat" alt="Stars" />
-  &nbsp;
-  <img src="https://img.shields.io/github/issues/BDutta999/BDutta999?label=Open+Issues" alt="Open Issues" />
-  &nbsp;
-  <img src="https://img.shields.io/github/last-commit/BDutta999/BDutta999?label=Last+Commit" alt="Last Commit" />
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BDutta999&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-  <br/><br/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BDutta999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-  <!-- Top languages as a badge -->
-  <img src="https://img.shields.io/github/languages/top/BDutta999?label=Top+Language" alt="Top Language" />
-  &nbsp;
-  <img src="https://img.shields.io/github/repo-size/BDutta999/BDutta999?label=Repo+Size" alt="Repo Size" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BDutta999&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-</p>
+</div>
 
 > These badges use Shields.io (backed by GitHub) — extremely reliable and visible on GitHub READMEs.
 
