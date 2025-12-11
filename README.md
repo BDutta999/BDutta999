@@ -6,11 +6,10 @@
 ---
 
 ## 🌌 About Me  
-I'm **Bitan**, a developer who loves creating 🔥 **clean UI**, ⚡ **fast backends**, and 💡 **smart solutions**.  
-I am a **B.Tech 2026 undergrad from NIT Durgapur**, passionate about **C++ competitive coding** and  
-**full-stack MERN development**.
+I'm **Bitan**, a developer who loves creating 🔥 clean UI, ⚡ fast backends, and 💡 smart solutions.  
+I am a **B.Tech 2026 undergrad from NIT Durgapur**, passionate about **C++ competitive coding** and **full-stack MERN development**.
 
-I keep learning, building, and levelling up — every single day.  
+I keep learning, building, and leveling up every single day.  
 
 ✨ *Code. Create. Improve. Repeat.* ✨
 
@@ -24,21 +23,27 @@ I keep learning, building, and levelling up — every single day.
 ---
 
 ## 🚀 What I Love Building  
-🔹 Smooth, modern web apps  
-🔹 Fast, scalable APIs  
-🔹 Real-time apps (chat, notifications, sockets)  
-🔹 Competitive programming solutions  
-🔹 Clean, minimal UI with a stylish look  
+- Smooth, modern web apps  
+- Fast, scalable APIs  
+- Real-time apps (chat, notifications, sockets)  
+- Competitive programming solutions  
+- Clean, minimal UI with a stylish look  
 
 ---
 
 ## 🔥 GitHub Power Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BDutta999&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BDutta999&show_icons=true&theme=tokyonight&hide_border=true" />
+  <!-- Fancy GitHub stats card (may fail sometimes) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=BDutta999&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+  <br/><br/>
+
+  <!-- Always-working fallback badges -->
+  <img src="https://img.shields.io/github/followers/BDutta999?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/BDutta999?label=Stars&style=flat" />
+  <img src="https://img.shields.io/github/last-commit/BDutta999/BDutta999?label=Last+Commit" />
+
 </p>
 
 ---
@@ -52,10 +57,10 @@ I keep learning, building, and levelling up — every single day.
 ---
 
 ## 🎯 Goals  
-- Build highly polished projects  
-- Develop strong system design knowledge  
-- Master DSA and C++ for CP  
-- Create impactful open-source work  
+- Build polished, production-level projects  
+- Strengthen system design knowledge  
+- Master DSA and C++ for competitive programming  
+- Contribute to open-source and impactful projects  
 
 ---
 
@@ -74,9 +79,9 @@ I keep learning, building, and levelling up — every single day.
   </a>
   &nbsp;&nbsp;
 
-  <!-- X (Twitter) -->
+  <!-- X (Twitter) - working logo -->
   <a href="https://x.com/dutta_coder" target="_blank">
-    <img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" />
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
   </a>
 
 </p>
