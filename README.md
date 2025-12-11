@@ -74,13 +74,12 @@ I keep learning, building, and levelling up — every single day.
   </a>
   &nbsp;&nbsp;
 
-  <!-- X (Twitter) - FIXED LOGO -->
+  <!-- X (Twitter) -->
   <a href="https://x.com/dutta_coder" target="_blank">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+    <img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" />
   </a>
 
 </p>
-
 
 ---
 
