@@ -6,10 +6,11 @@
 ---
 
 ## 🌌 About Me  
-I'm **Bitan**, a developer who loves creating 🔥 clean UI, ⚡ fast backends, and 💡 smart solutions.  
-I am a **B.Tech 2026 undergrad from NIT Durgapur**, passionate about **C++ competitive coding** and **full-stack MERN development**.
+I'm **Bitan**, a developer who loves creating 🔥 **clean UI**, ⚡ **fast backends**, and 💡 **smart solutions**.  
+I am a **B.Tech 2026 undergrad from NIT Durgapur**, passionate about **C++ competitive coding** and  
+**full-stack MERN development**.  
 
-I keep learning, building, and leveling up every single day.  
+I keep learning, building, and levelling up — every single day.  
 
 ✨ *Code. Create. Improve. Repeat.* ✨
 
@@ -23,27 +24,21 @@ I keep learning, building, and leveling up every single day.
 ---
 
 ## 🚀 What I Love Building  
-- Smooth, modern web apps  
-- Fast, scalable APIs  
-- Real-time apps (chat, notifications, sockets)  
-- Competitive programming solutions  
-- Clean, minimal UI with a stylish look  
+🔹 Smooth, modern web apps  
+🔹 Fast, scalable APIs  
+🔹 Real-time apps (chat, notifications, sockets)  
+🔹 Competitive programming solutions  
+🔹 Clean, minimal UI with a stylish look  
 
 ---
 
 ## 🔥 GitHub Power Stats  
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BDutta999&theme=tokyonight&hide_border=true" />
+</p>
 
-  <!-- Fancy GitHub stats card (may fail sometimes) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=BDutta999&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-  <br/><br/>
-
-  <!-- Always-working fallback badges -->
-  <img src="https://img.shields.io/github/followers/BDutta999?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/BDutta999?label=Stars&style=flat" />
-  <img src="https://img.shields.io/github/last-commit/BDutta999/BDutta999?label=Last+Commit" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BDutta999&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -57,33 +52,22 @@ I keep learning, building, and leveling up every single day.
 ---
 
 ## 🎯 Goals  
-- Build polished, production-level projects  
-- Strengthen system design knowledge  
-- Master DSA and C++ for competitive programming  
-- Contribute to open-source and impactful projects  
+- Build highly polished projects  
+- Develop strong system design knowledge  
+- Master DSA and C++ for CP  
+- Create impactful open-source work  
 
 ---
 
 ## 🌐 Connect With Me  
 <p align="center">
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/bitan-dutta-320155250/" target="_blank">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
     <img height="40" src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;
-
-  <!-- Gmail -->
-  <a href="mailto:duttabitan26@gmail.com" target="_blank">
+  <a href="mailto:YOUR-EMAIL@gmail.com">
     <img height="40" src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  &nbsp;&nbsp;
-
-  <!-- X (Twitter) - working logo -->
-  <a href="https://x.com/dutta_coder" target="_blank">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
-  </a>
-
 </p>
 
 ---
