@@ -33,15 +33,22 @@ I keep learning, building, and leveling up every single day.
 
 ## 🔥 GitHub Power Stats
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BDutta999&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BDutta999&theme=tokyonight&hide_border=true" />
+</p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BDutta999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BDutta999&theme=tokyonight" />
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BDutta999&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BDutta999&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BDutta999&theme=tokyonight" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BDutta999&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
